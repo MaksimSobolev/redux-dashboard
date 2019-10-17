@@ -23,7 +23,7 @@
     "immutable-devtools": "^0.0.7",
     "iscroll": "^5.2.0",
     "lodash": "^4.17.4",
-    "moment": "^2.18.1",
+    "moment": "^2.19.3",
     "nprogress": "^0.2.0",
     "prop-types": "^15.5.10",
     "react": "^15.5.4",
