@@ -1,1 +1,1 @@
-# An Amazing-React App
+# An Amazing-React Application
